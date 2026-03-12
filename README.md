@@ -1,12 +1,12 @@
-<div align="center">
+<div style="display: flex; align-items: center; justify-content: center; gap: 30px; margin-bottom: 20px; flex-wrap: wrap;">
 
-<img src="https://github.com/ualmec700.png" width="180" style="border-radius:50%; margin-bottom: 15px;"/>
+  <img src="https://github.com/ualmec700.png" width="180" style="border-radius: 50%; border: 3px solid #3a7bd5; box-shadow: 0 4px 15px rgba(0,0,0,0.3);"/>
 
-# Marcos Escánez
-
-### Software Engineering Student
-
-Desarrollo de software • Web • Cloud • Control de versiones
+  <div style="text-align: left; max-width: 400px;">
+    <h1 style="margin: 0; border: none;">Marcos Escánez</h1>
+    <h3 style="margin: 5px 0; color: #3a7bd5;">Software Engineering Student</h3>
+    <p style="margin: 10px 0; font-style: italic;">Desarrollo de software • Web • Cloud • Control de versiones</p>
+  </div>
 
 </div>
 
